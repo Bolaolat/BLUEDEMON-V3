@@ -9,7 +9,7 @@ global.devNumber = ["2347041039367"] //𝙉𝙤𝙢𝙤𝙧 𝙊𝙬𝙣𝙚𝙧
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
-global.Auto_ReadPesan = true // auto read messages
+global.Auto_ReadPesan = false // auto read messages
 global.Type_Menu = "v1" // TypeMenu v1:IMAGE v2:TEXT V3:TEXT+QSTATUS
 
 global.domain = "https://example.id" // Ganti Domain Lu
