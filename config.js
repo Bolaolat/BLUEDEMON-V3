@@ -2,10 +2,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti info bot dibawah ini
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒 V4.5" //𝙈𝙖𝙨𝙪𝙠𝙞𝙣 𝙉𝙖𝙢𝙖 𝘽𝙤𝙩
-global.ownerName = "😈𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒😈" //𝙉𝙖𝙢𝙖 𝙠𝙖𝙢𝙪
-global.botNumber = "2347049602299" //𝙉𝙤𝙢𝙤𝙧 𝘽𝙤𝙩 𝙆𝙖𝙢𝙪
-global.devNumber = ["2347049602299"] //𝙉𝙤𝙢𝙤𝙧 𝙊𝙬𝙣𝙚𝙧 
+global.botName = "𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽 v3" //𝙈𝙖𝙨𝙪𝙠𝙞𝙣 𝙉𝙖𝙢𝙖 𝘽𝙤𝙩
+global.ownerName = "😈𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽😈" //𝙉𝙖𝙢𝙖 𝙠𝙖𝙢𝙪
+global.botNumber = "2347041039367" //𝙉𝙤𝙢𝙤𝙧 𝘽𝙤𝙩 𝙆𝙖𝙢𝙪
+global.devNumber = ["2347041039367"] //𝙉𝙤𝙢𝙤𝙧 𝙊𝙬𝙣𝙚𝙧 
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
