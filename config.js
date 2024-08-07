@@ -10,12 +10,12 @@ global.devNumber = ["2347041039367"] //𝙉𝙤𝙢𝙤𝙧 𝙊𝙬𝙣𝙚𝙧
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
 global.Auto_ReadPesan = false // auto read messages
-global.Type_Menu = "v3" // TypeMenu v1:IMAGE v2:TEXT V3:TEXT+QSTATUS
+global.Type_Menu = "v1" // TypeMenu v1:IMAGE v2:TEXT V3:TEXT+QSTATUS
 
-global.domain = "https://example.id" // Ganti Domain Lu
-global.key_plta = "-bot" // Isi Apikey Plta Lu
-global.key_pltc = "" // Isi Apikey Pltc Lu
-global.nama_host = "" // Ganti Nama Store Atau nama Host Lu
+global.domain = "https://mcross.pannel.sell.id" // Ganti Domain Lu
+global.key_plta = "u121087_KiTTsEJJQc" // Isi Apikey Plta Lu
+global.key_pltc = "u121087_KiTTsEJJQc" // Isi Apikey Pltc Lu
+global.nama_host = "s121087_Mcross-bot" // Ganti Nama Store Atau nama Host Lu
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
